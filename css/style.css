@@ -138,7 +138,7 @@ section {
     border-radius: 10px;
 }
 .product img {
-    max-width: 100%;
+   width: 100%;
 }
 .product_name {
     font-size: 1.5rem;
@@ -176,6 +176,20 @@ section {
 }
 .feature_image img{
    width: 100%;
+}
+
+/* Footer Area */
+.footer_area {
+    background: #0a0826;
+    color: #ffffff;
+    padding: 30px 20px;
+    text-align: center;
+}
+.footer_area .social {
+    padding: 20px 0;
+}
+.footer_area .social i {
+    padding: 0px 10px;
 }
 /* Responsive @media query for 576px screen */
 
